@@ -6,6 +6,10 @@ Yes to accountable notes, no to external hosting. Free, for everyone.
 
 Visit [imbricate.io](https://imbricate.io/).
 
+## Imbricate VSCode Extension
+
+The Imbricate VSCode extension is the fastest way to get started with Imbricate. Install the extension from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate).
+
 ## Imbricate CLI
 
 Imbricate CLI is available through NPM for package management. See https://github.com/imbricate/Imbricate-CLI.
