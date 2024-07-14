@@ -1,4 +1,4 @@
-# Imbricate
+# Imbricate ▣
 
 Yes to accountable notes, no to external hosting. Free, for everyone.
 
